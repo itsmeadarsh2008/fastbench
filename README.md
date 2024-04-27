@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/itsmeadarsh2008/fastbench/main/truebench.svg" width="200" height="200">
   <br>
   TrueBench
-  
+  <br>
   <img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/fastbench">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/itsmeadarsh2008/fastbench">
   <br>
