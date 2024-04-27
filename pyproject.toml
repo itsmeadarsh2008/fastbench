@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "fastbench"
-version = "0.1.1"
+version = "0.1.2"
 description = "A pure-python based benchmarking package for Python 🤪"
 authors = ["Adarsh Gourab Mahalik <gourabmahalikadarsh@gmail.com>"]
 readme = "README.md"
