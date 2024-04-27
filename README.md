@@ -1,42 +1,42 @@
 <h1 align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/itsmeadarsh2008/fastbench/main/truebench.svg" width="200" height="200">
+  <img src="https://raw.githubusercontent.com/itsmeadarsh2008/fastbench/main/fastbench.svg" width="200" height="200">
   <br>
-  TrueBench
+  FastBench
   <br>
   <img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/fastbench">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/itsmeadarsh2008/fastbench">
   <br>
 </h1>
 
-TrueBench is a high-performance Python package for benchmarking code execution time, CPU usage, and memory usage. It's implemented in Python for simplicity and provides a simple API for measuring the performance of your Python code.
+FastBench is a high-performance Python package for benchmarking code execution time, CPU usage, and memory usage. It's implemented in Python for simplicity and provides a simple API for measuring the performance of your Python code.
 
 ## ✨ Features
 
-- 🕰️ Measure the execution time of a function or code block
-- 🖥️ Track CPU usage during code execution
-- 💾 Monitor memory usage during code execution
+- ️ Measure the execution time of a function or code block
+- ️ Track CPU usage during code execution
+-  Monitor memory usage during code execution
 - ⚡ Lightweight and fast
-- 🤏 Simple and easy-to-use API
+-  Simple and easy-to-use API
 
-## 📦 Installation
+##  Installation
 
-You can install TrueBench via pip:
+You can install FastBench via pip:
 
 ```bash
-pip install truebench
+pip install fastbench
 ```
 
-## 🔧 Usage
+##  Usage
 
-Here's an example of how to use TrueBench to benchmark Python code:
+Here's an example of how to use FastBench to benchmark Python code:
 
 ```python
-from truebench import mt, mc, mm
+from fastbench import mt, mc, mm
 
 # Define a sample function for testing
 def sample_function(n):
-    return sum(range(n))
+  return sum(range(n))
 
 # Test the mt function (measure execution time)
 time_taken = mt(sample_function, n=1000000)
@@ -51,10 +51,10 @@ memory_usage = mm(sample_function, n=1000000)
 print("Memory usage:", memory_usage)
 ```
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Check out the [Contribution Guidelines](https://github.com/itsmeadarsh2008/fastbench/blob/main/CONTRIBUTING.md).
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/itsmeadarsh2008/fastbench?tab=MIT-1-ov-file) file for details.
