@@ -9,6 +9,10 @@ readme = "README.md"
 python = "^3.12"
 psutil = "^5.9.8"
 
+[project.urls]
+homepage = "https://github.com/itsmeadarsh2008/fastbench"
+repository = "https://github.com/itsmeadarsh2008/fastbench.git"
+issues = "https://github.com/itsmeadarsh2008/fastbench/issues"
 
 [build-system]
 requires = ["poetry-core"]

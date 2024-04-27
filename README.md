@@ -1,19 +1,13 @@
-
 <h1 align="center">
   <br>
-  <img src="./truebench.svg" width="200" height="200">
+  <img src="https://raw.githubusercontent.com/itsmeadarsh2008/fastbench/main/truebench.svg" width="200" height="200">
   <br>
   TrueBench
+  
+  <img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/fastbench">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/itsmeadarsh2008/fastbench">
   <br>
 </h1>
-
-<p align="center">
-  <a href="#features">Features</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#usage">Usage</a> •
-  <a href="#contributing">Contributing</a> •
-  <a href="#license">License</a>
-</p>
 
 TrueBench is a high-performance Python package for benchmarking code execution time, CPU usage, and memory usage. It's implemented in Python for simplicity and provides a simple API for measuring the performance of your Python code.
 
@@ -59,8 +53,8 @@ print("Memory usage:", memory_usage)
 
 ## 🤝 Contributing
 
-Contributions are welcome! Check out the [Contribution Guidelines](CONTRIBUTING.md).
+Contributions are welcome! Check out the [Contribution Guidelines](https://github.com/itsmeadarsh2008/fastbench/blob/main/CONTRIBUTING.md).
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/itsmeadarsh2008/fastbench?tab=MIT-1-ov-file) file for details.
