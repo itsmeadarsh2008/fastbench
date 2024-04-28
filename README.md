@@ -13,11 +13,11 @@ FastBench is a high-performance Python package for benchmarking code execution t
 
 ## ✨ Features
 
-- ️ Measure the execution time of a function or code block
-- ️ Track CPU usage during code execution
--  Monitor memory usage during code execution
+- ⏱️ Measure the execution time of a function or code block
+- 📊 Track CPU usage during code execution
+- 🖥️ Monitor memory usage during code execution
 - ⚡ Lightweight and fast
--  Simple and easy-to-use API
+- 🔄 Simple and easy-to-use API
 
 ##  Installation
 
